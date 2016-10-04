@@ -2,7 +2,7 @@
 
 ## TODO
 
-### make derectories & files
+### Make Derectories & Files
 
  -[ ] `index.html`
  -[ ] `css/style.css`
