@@ -1,5 +1,9 @@
-body{
+body {
 	margin: 0;
 	height: 100vh;
 	background: url("../images/day3_homework.jpg") no-repeat center;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
