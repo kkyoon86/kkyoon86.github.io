@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	height: 100vh;
+	background: url("../images/grid_homework.jpg") no-repeat center;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
