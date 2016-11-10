@@ -59,7 +59,9 @@ body{
 	padding-top: 60px;
 }
 
-
+.iconset{
+	text-align: center;
+}
 .icon{
 	display: inline-block;
 	padding-top: 109px;
